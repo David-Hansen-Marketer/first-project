@@ -39,3 +39,24 @@ a {
 a:hover {
     background-color: #005fcc;
 }
+header {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #ffffff;
+}
+
+section {
+    width: 600px;
+    margin: 40px auto;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+    margin-top: 40px;
+}
