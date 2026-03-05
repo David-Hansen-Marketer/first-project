@@ -70,9 +70,11 @@ footer {
     text-decoration: none;
     border-radius: 6px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    transition: background-color 0.3s;
+    transition: all 0.3s;
 }
 
 .button:hover {
     background-color: #005fcc;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 14px rgba(0,0,0,0.15);
 }
