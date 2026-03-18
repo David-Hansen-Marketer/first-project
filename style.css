@@ -138,3 +138,9 @@ footer {
     text-decoration: none;
     border-radius: 6px;
 }
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
